@@ -1,0 +1,17 @@
+{
+    "name": "dikisiswanto/line-bot-php",
+    "description": "Building LINE bot using SLIM PHP framework",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "slim/slim": "^3.12",
+        "linecorp/line-bot-sdk": "^3.6"
+    },
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Diki Siswanto",
+            "email": "dickyachmady@gmail.com"
+        }
+    ]
+}
