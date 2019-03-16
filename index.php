@@ -24,7 +24,7 @@
 	$app = new Slim\App($configs);
 
 	// buat route untuk url homepage
-	$app->get('/', function($req, $req)
+	$app->get('/', function($req, $res)
 	{
 		echo "Welcome at Slim Framework";
 	});
