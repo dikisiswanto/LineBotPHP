@@ -50,8 +50,8 @@
 			}
 		}
 		// kode aplikasi kita nanti di sini
-		
-	})
+
+	});
 
 	$app->run();
 ?>
